@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "903755108427",
+    "project_id": "crypto-talon-402213",
+    "storage_bucket": "crypto-talon-402213.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903755108427:android:f1273f4d2ecdd951c77dce",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5uldNjfETU4GKZ4DB1abjBIiwr96ZSuE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
